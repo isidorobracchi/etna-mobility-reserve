@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep Git configuration files
+!.gitignore
+
+# Publish README
+!README.md
+
+# Publish GitHub Pages site
+!docs/
+!docs/index.html
