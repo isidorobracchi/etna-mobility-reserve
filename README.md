@@ -22,7 +22,7 @@ The project combines observed flight-disruption data published by SAC with expli
 
 **Open the interactive dashboard:**
 
-**https://isidorobracchi.github.io/etna-catania-10aug/**
+**https://isidorobracchi.github.io/etna-mobility-reserve/**
 
 The dashboard is available in **Italian and English**.
 
